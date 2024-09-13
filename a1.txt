@@ -1,6 +1,0 @@
-hi
-<<<<<<< HEAD
-hello from b-2
-=======
-edited from b-1
->>>>>>> b-1
